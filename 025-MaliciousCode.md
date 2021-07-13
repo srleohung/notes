@@ -1,4 +1,4 @@
-# 025-MaliciousCode-4in1
+# 025-MaliciousCode
 
 ## Types of malware
 

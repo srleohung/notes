@@ -1,4 +1,4 @@
-# 040-ComputerForensicsProcess-4in1
+# 040-ComputerForensicsProcess
 
 ## Standard Operating Procedures
 

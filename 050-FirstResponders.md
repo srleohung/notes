@@ -1,4 +1,4 @@
-# 050-FirstResponders-4in1
+# 050-FirstResponders
 
 ## First responder considerations
 

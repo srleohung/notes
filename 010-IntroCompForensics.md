@@ -1,4 +1,4 @@
-# 010-IntroCompForensics-4in1
+# 010-IntroCompForensics
 
 ## Computer forensics: Definition
 
