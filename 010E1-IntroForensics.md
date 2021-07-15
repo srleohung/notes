@@ -1,6 +1,7 @@
 # 010E1-IntroForensics
 
 ## 1. What is Computer Forensics?
+<textarea cols="50" rows="2"></textarea>
 <details>
 <summary>Answer</summary>
 <p>
@@ -19,6 +20,7 @@ All must be done in a manner designed to preserve the probative value of the evi
 </details>  
 
 ## 2. Consider a hypothetical scenario where a criminal has broken into an organization’s premises and stolen critical assets, including money, data and reports. What is the possible loss of the organization if computer forensics examination is not conducted properly?
+<textarea cols="50" rows="2"></textarea>
 <details>
 <summary>Answer</summary>
 <p>

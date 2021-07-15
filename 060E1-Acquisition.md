@@ -1,6 +1,7 @@
 # 060E1-Acquisition
 
 ## 1. Why it is necessary to create a duplication of the original media during the forensic investigation process?
+<textarea cols="50" rows="2"></textarea>
 <details>
 <summary>Answer</summary>
 <p>
@@ -21,6 +22,7 @@ This allows storing the original media away, safe from harm while the investigat
 
 ## 2. Assume that you received an external portable hard drive from the evidence collection team of your company, and you are assigned to create a copy of the hard drive.
 ### (a) Name a software that can be used to image the data in the hard drive.
+<textarea cols="50" rows="2"></textarea>
 <details>
 <summary>Answer</summary>
 <p>
@@ -38,6 +40,7 @@ AccessData FTK Imager。
 </details>  
 
 ### (b) You are going to use the software you mentioned in (a) for creating the copy. Write down the steps, including the hardware and/or software you will use, for performing the task.
+<textarea cols="50" rows="2"></textarea>
 <details>
 <summary>Answer</summary>
 <p>
@@ -68,6 +71,7 @@ AccessData FTK Imager。
 </details>  
 
 ### (c) How can you verify that during the process of media duplication, the original media is unchanged?
+<textarea cols="50" rows="2"></textarea>
 <details>
 <summary>Answer</summary>
 <p>
