@@ -1,7 +1,7 @@
 # 040E1-ForensicsProcess
 
 ## 1. List, in order, the Standard Operating Procedures (SOPs) on Computer Forensics. Briefly describe each of the procedures.
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -34,7 +34,7 @@
 </details>  
 
 ## 2. Suggest three measures that should be considered when building a computer forensic laboratory?
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -50,7 +50,7 @@ Temperature control, humidity control, static electricity reduction, electromagn
 
 ## 3. One of the forensics process is collection, in which the computer forensic specialist are required to seize the evidence from the crime scene.
 ### (a) Briefly discuss the information required to be shown on the evidence bag. 
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -65,7 +65,7 @@ The information that should be exhibit on an evidence bag generally includes: ca
 </details>  
 
 ### (b) Briefly discuss why labeling the cables attached to a computer is important. 
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -80,7 +80,7 @@ Labels are placed on both ends of a cable to help document how and what were con
 </details>  
 
 ### (c) Why the computer forensic specialist must take precaution, and use standardized and accepted practice during the collection process? Try to discuss the issues based on the properties and the probative value of evidence.
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>

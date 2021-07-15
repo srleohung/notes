@@ -1,7 +1,7 @@
 # 030E1-DigitalEvidence
 
 ## 1. What is digital evidence?
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -16,7 +16,7 @@ Digital evidence includes all digital data, which can be used to establish that 
 </details>  
 
 ## 2. List the five characteristics of digital evidence.
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -41,7 +41,7 @@ Digital evidence includes all digital data, which can be used to establish that 
 </details>  
 
 ## 3. List the roles of digital evidence.
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -62,7 +62,7 @@ Digital evidence includes all digital data, which can be used to establish that 
 </details>  
 
 ## 4. Which document is important for proving the integrity of the digital evidence? Briefly describe the information that this document recorded. Which of the steps in the computer forensic process should involve this document?
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
@@ -81,7 +81,7 @@ All steps include collection, transportation, retrieval, examination and analysi
 </details>  
 
 ## 5. What are the requirements for a piece of evidence to have the probative value?
-<input size="100"/>
+
 <details>
 <summary>Answer</summary>
 <p>
