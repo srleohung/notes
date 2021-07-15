@@ -10,7 +10,7 @@ Consider the following scenario, and answer all the questions. In an investigati
 </details>  
 
 ### 1. (1 mark) What should be the main duty of Kent?
-<textarea cols="50" rows="2"></textarea>
+<input size="100"/>
 <details>
 <summary>Answer</summary>
 <p>
@@ -26,7 +26,7 @@ To `preserve` as much evidence as possible for subsequent examination.
 </details>  
 
 ### 2. (5 marks) At the crime scene, Kent first photographed and sketched the crime scene. Next, he powered on the computer to see if the computer functioned properly. Do you agree with his action(s)? Justify your answer with consideration of characteristics of digital evidence. Suggest the proper way(s) of performing the task(s) if you do not agree with his action(s).
-<textarea cols="50" rows="2"></textarea>
+<input size="100"/>
 <details>
 <summary>Answer</summary>
 <p>
@@ -49,7 +49,7 @@ The computer should remain powered off.
 </details>  
 
 ### 3. (7 marks) Kent placed the collected portable hard disk into a plastic garbage bag and placed an evidence label on top. He just tied the plastic bag with a string. It is then delivered to the laboratory for further analysis. Do you agree with his action(s)? Justify your answer and suggest the proper way(s) of performing the task(s) if you do not agree with his action(s).
-<textarea cols="50" rows="2"></textarea>
+<input size="100"/>
 <details>
 <summary>Answer</summary>
 <p>
@@ -72,7 +72,7 @@ He should put the hard disk in an anti-static bag and sealed it with anti-tamper
 </details>  
 
 ### 4. (3 marks) What is the main concern in collecting and handling the evidence? Name the document that can address the concern.
-<textarea cols="50" rows="2"></textarea>
+<input size="100"/>
 <details>
 <summary>Answer</summary>
 <p>
@@ -91,7 +91,7 @@ The document that can address the concern in the Chain of Custody Form.
 </details>  
 
 ### 5. (4 marks) After Kent delivered the evidence to the laboratory, he placed the evidence under his desk in the laboratory instead of keeping them in the Evidence Inventory in accordance with procedures. He then went to dinner for an hour and the evidence remains unattended. Two hours later, he transferred the exhibits to the Evidence Inventory. Do you think this is a proper way to handle evidence? Justify your answer with consideration of the requirements of a piece of evidence to have the probative value.
-<textarea cols="50" rows="2"></textarea>
+<input size="100"/>
 <details>
 <summary>Answer</summary>
 <p>
