@@ -18,6 +18,5 @@ All must be done in a manner designed to preserve the probative value of the evi
 * Loss of valuable information such as customer files, private data, or other confidential information, may potentially render an organization vulnerable to legal or other action.
 * For companies whose business models depend on protection of intellectual properties, maintaining confidentiality or whose business data is highly sought after commodity, such losses could be catastrophic if the data were not recovered in a timely manner.
 * An organization risks losing a valuable opportunity to dignity and correct security weakness.
-
 </p>
 </details>  
