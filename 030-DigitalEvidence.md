@@ -17,7 +17,7 @@
 </p>
 </details>  
 
-## Evidence that want to use in a court...
+## Evidence that want to use in a court... 想在法庭上使用的證據...
 
 * Any evidence that want to use in a court case must be
   + `Admissible` 可受理
@@ -36,8 +36,31 @@
     - Evidence collection and analysis procedures must not cast doubt on the evidence’s authenticity and veracity
   + `Believable` 可信的
     - The evidence presented should be clear, easy to understand and believable by a jury
+<details>
+<summary>Translate</summary>
+<p>
 
-## Characteristics of digital evidence 
+* 任何想在法庭案件中使用的證據必須是
+  + 可收聽
+    - 應該與案件“相關”, 支持客戶的陳述, 並進行良好的溝通和無偏見
+    - 必須與被證明的事實有關
+  + 真正的
+    - 證據應該是相關的, 用於證明或反駁案件事實
+    - 必須是真實的並且以適當的方式與事件相關
+    - 調查人員必須提供有關證據真實性的證明文件, 包括來源及其與案件的相關性等詳細信息
+  + 完全的
+    - 收集有助於證明攻擊者行為的證據
+    - 收集可能與嫌疑人有關的其他潛在犯罪證據的可靠性或以其他方式降低其可靠性的證據
+    - 收集證據以排除其他嫌疑人
+    - 無隧道視野
+  + 可靠的
+    - 證據收集和分析程序不得對證據的真實性和真實性產生懷疑
+  + 可信的
+    - 所提供的證據應清晰、易於理解並為陪審團所信Î
+</p>
+</details>  
+
+## Characteristics of digital evidence 數字證據的特徵
 
 * `Highly fragile` 極易碎
   + Can be easily altered, damaged or destroyed
