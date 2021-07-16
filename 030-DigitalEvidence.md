@@ -42,7 +42,7 @@
 
 * 任何想在法庭案件中使用的證據必須是
   + `可受理`
-    - 應該與案件“相關”, 支持客戶的陳述, 並進行良好的溝通和無偏見
+    - 應該與案件"相關", 支持客戶的陳述, 並進行良好的溝通和無偏見
     - 必須與被證明的事實有關
   + `真正的`
     - 證據應該是相關的, 用於證明或反駁案件事實
@@ -65,8 +65,8 @@
 * `Highly fragile` 極易碎
   + Can be easily altered, damaged or destroyed
 * `Intangible, latent` 無形的, 潛在的
-  + Cannot “see” what is contained in the physical object that holds the evidence
-  + Specific equipment and software are required to make them “visible”
+  + Cannot "see" what is contained in the physical object that holds the evidence
+  + Specific equipment and software are required to make them "visible"
 * `Hard to prove its originality and integrity` 難以證明其原創性和完整性
 * `Diversity` 多樣性
 * `Not easy to obtain the evidence` 取證不易, can transcend national borders with ease and speed
