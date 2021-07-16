@@ -1,5 +1,7 @@
 # 025-MaliciousCode
 
+[![](README.svg)](README.md)
+
 ## Types of malware
 
 * `Computer virus`

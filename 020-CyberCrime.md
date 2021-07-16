@@ -1,5 +1,7 @@
 # 020-CyberCrime
 
+[![](README.svg)](README.md)
+
 ## Technology crime
 
 * `Online fraud` 網上詐騙

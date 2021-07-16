@@ -1,5 +1,7 @@
 # 040E1-ForensicsProcess
 
+[![](README.svg)](README.md)
+
 ## 1. List, in order, the Standard Operating Procedures (SOPs) on Computer Forensics. Briefly describe each of the procedures.
 
 <details>

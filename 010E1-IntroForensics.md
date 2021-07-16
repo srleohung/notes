@@ -1,5 +1,7 @@
 # 010E1-IntroForensics
 
+[![](README.svg)](README.md)
+
 ## 1. What is Computer Forensics?
 
 <details>

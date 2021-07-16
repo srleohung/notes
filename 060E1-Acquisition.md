@@ -1,5 +1,7 @@
 # 060E1-Acquisition
 
+[![](README.svg)](README.md)
+
 ## 1. Why it is necessary to create a duplication of the original media during the forensic investigation process?
 
 <details>

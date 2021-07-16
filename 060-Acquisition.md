@@ -1,5 +1,7 @@
 # 060-Acquisition
 
+[![](README.svg)](README.md)
+
 ## Evidence acquisition 取證
 
 * Analysing the original evidence could modify or even destroy the evidence
