@@ -9,7 +9,7 @@ Digital evidence includes all digital data, which can be used to establish that 
 <details>
 <summary>Translate</summary>
 <p>
-數字證據包括所有的數字數據，可用於建立一個犯罪一直致力於或可提供犯罪及其受害者或犯罪及其行為人之間的聯繫。
+數字證據包括所有的數字數據, 可用於建立一個犯罪一直致力於或可提供犯罪及其受害者或犯罪及其行為人之間的聯繫。
 </p>
 </details>  
 </p>
@@ -31,7 +31,7 @@ Digital evidence includes all digital data, which can be used to establish that 
 <p>
 
 * 高度脆弱
-* 無形的，潛在的
+* 無形的, 潛在的
 * 很難證明它的原創性和完整性
 * 多樣性
 * 不容易獲得證據
@@ -72,9 +72,9 @@ All steps include collection, transportation, retrieval, examination and analysi
 <details>
 <summary>Translate</summary>
 <p>
-保管形式鏈是為了證明數字證據的完整性很重要。該文件是記錄證據的“產銷監管鏈”。產銷監管鏈是證明了這一點已經從它位於在犯罪現場，以它在法庭上推出的時間的時間採取的所有步驟的文檔。有關轉移的證據，包括日期，時間，誰發布/接收到的證據，位置的人的信息，和轉移的原因應該被記錄下來。
+保管形式鏈是為了證明數字證據的完整性很重要。該文件是記錄證據的“產銷監管鏈”。產銷監管鏈是證明了這一點已經從它位於在犯罪現場, 以它在法庭上推出的時間的時間採取的所有步驟的文檔。有關轉移的證據, 包括日期, 時間, 誰發布/接收到的證據, 位置的人的信息, 和轉移的原因應該被記錄下來。
 
-所有步驟包括收集，運輸，檢索，檢查和分析，保護和存儲過程都必須記錄在案，因此參與保管形式鏈。
+所有步驟包括收集, 運輸, 檢索, 檢查和分析, 保護和存儲過程都必須記錄在案, 因此參與保管形式鏈。
 </p>
 </details>  
 </p>

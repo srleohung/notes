@@ -13,27 +13,27 @@
 </p>
 </details>  
 
-## Types of acquisition
+## Types of acquisition 採集類型
 
 * Live data acquisition 實時數據採集
   * Acquisition of volatile data (live forensics) 獲取易失性數據（實時取證）
 * Static data acquisition 靜態數據採集
   * Acquisition of non-volatile data 獲取非易失性數據
 
-## Live forensics
+## Live forensics 現場取證
 
 * System information 系統信息
 * Current configuration and running state of computer 電腦當前配置和運行狀態
 * Volatile system information 易失的系統信息
 * Network information 網絡信息
 
-## Static data acquisition
+## Static data acquisition 靜態數據採集
 
 * Non-volatile information 非易失性信息
 * Files / data in storage media 存儲介質中的文件/數據
 * Data includes slack space, swap files, unallocated drive spaces 數據包括空閒空間、交換文件、未分配的驅動器空間
 
-## The need of media duplication
+## The need of media duplication 媒體複製的必要性
 
 * Disk or media duplication is at the core of computer forensics process
 * Necessary to create an `exact` copy of the original disk/ media for analysis because of the volatility of the data on the disk and potential that evidence could be modified or destroyed during handling and analysis
@@ -42,7 +42,7 @@
 <p>
 
 * 磁盤或媒體複製是計算機取證過程的核心
-* 必須創建原始磁盤/媒體的`精確`副本以供分析，因為磁盤上數據的易失性以及在處理和分析過程中證據可能被修改或破壞的可能性
+* 必須創建原始磁盤/媒體的`精確`副本以供分析, 因為磁盤上數據的易失性以及在處理和分析過程中證據可能被修改或破壞的可能性
 </p>
 </details>  
 
@@ -57,7 +57,7 @@
 <p>
 
 * 只複製活動數據
-   * 即，您可以看到的所有文件
+   * 即, 您可以看到的所有文件
    * 不包括鬆弛、殘留、刪除的文件
    * 可能無法捕獲數據的時間戳
 </p>
@@ -72,9 +72,9 @@
 <summary>Translate</summary>
 <p>
 
-* 為了完整和準確，副本應該是原始磁盤的`逐位克隆`，稱為`位流圖像`
+* 為了完整和準確, 副本應該是原始磁盤的`逐位克隆`, 稱為`位流圖像`
 * 位流副本記錄駐留在存儲設備上的數據的每一位（0 或 1）
-* 比特流複製允許複製工作文件，也允許複製`隱藏、擦除、碎片化、損壞、臨時和特殊屬性文件`
+* 比特流複製允許複製工作文件, 也允許複製`隱藏、擦除、碎片化、損壞、臨時和特殊屬性文件`
 </p>
 </details> 
 
@@ -98,7 +98,7 @@
    * 清除
      - 通過最先進的實驗室技術使目標數據恢復不可行的物理/邏輯技術
    * 破壞
-     - 使用最先進的實驗室技術，但導致無法使用介質進行數據存儲（例如，橫切切碎）
+     - 使用最先進的實驗室技術, 但導致無法使用介質進行數據存儲（例如, 橫切切碎）
 </p>
 </details> 
 
@@ -149,10 +149,10 @@
 <summary>Translate</summary>
 <p>
 
-* 一種數據預覽和成像工具，可以快速評估數字證據
+* 一種數據預覽和成像工具, 可以快速評估數字證據
 * 允許創建不同媒體的法醫聲像
    * 逐位複制媒體
-* 取證圖像在各方面都與原始圖像相同，包括文件鬆弛和未分配空間或驅動器可用空間
+* 取證圖像在各方面都與原始圖像相同, 包括文件鬆弛和未分配空間或驅動器可用空間
 </p>
 </details> 
 
@@ -180,7 +180,7 @@
 <summary>Translate</summary>
 <p>
 
-* 散列是一個數學過程（通過算法），它產生一個獨特的值（散列值），它本質上是特定文件、媒體等的數字“邊緣印記”或“DNA”
+* 散列是一個數學過程（通過算法）, 它產生一個獨特的值（散列值）, 它本質上是特定文件、媒體等的數字“邊緣印記”或“DNA”
 * 此數字指紋可用於將原始證據與法醫圖像進行比較
    * 這兩個值應該完全匹配
 </p>

@@ -4,6 +4,15 @@
 * The available body of facts or information indicating whether a belief or proposition is true or valid
   * Provides direct proof of the truth of an assertion
   * Merely consistent with an assertion but does not rule out other, contradictory assertions, as in circumstantial evidence
+<details>
+<summary>Translate</summary>
+<p>
+
+* 表明信念或命題是真實或有效的事實或信息的可用主體
+   * 提供斷言真實性的直接證明
+   * 僅與斷言一致, 但不排除其他相互矛盾的斷言, 如間接證據
+</p>
+</details>  
 
 ## Evidence that want to use in a court...
 
@@ -28,7 +37,7 @@
 ## Characteristics of digital evidence 
 * `Highly fragile` 極易碎
   * Can be easily altered, damaged or destroyed
-* `Intangible, latent` 無形的，潛在的
+* `Intangible, latent` 無形的, 潛在的
   * Cannot “see” what is contained in the physical object that holds the evidence
   * Specific equipment and software are required to make them “visible”
 * `Hard to prove its originality and integrity` 難以證明其原創性和完整性
@@ -45,6 +54,13 @@
 ## Locard’s Exchange Principle
 
 * Any action of an individual, and obviously the violent action constituting a crime, cannot occur without leaving a trace
+<details>
+<summary>Translate</summary>
+<p>
+
+* 任何個人的行為, 顯然構成犯罪的暴力行為, 都不能不留痕跡地發生
+</p>
+</details>  
 
 ## Evidence handling principles 取證原則
 
@@ -60,7 +76,25 @@
 * All steps include `collection, transportation, retrieval, examination and analysis, protection and storage procedures` have to be documented
 * Each person who handled evidence may be required to testify that the evidence presented in court is the `same` as when it was processed during the investigation
   * i.e., Testify to what happened to the evidence while it was in their custody and how the evidence was stored and protected
+<details>
+<summary>Translate</summary>
+<p>
+
+* 計算機取證最重要的方面之一是維護和記錄證據的`監管鏈`（即佔有的連續性）
+* 它是證據從位於犯罪現場到被引入法庭所採取的所有步驟的`文件`
+* 所有步驟包括`收集、運輸、檢索、檢查和分析、保護和儲存程序`必須記錄在案
+* 每個處理證據的人都可能需要作證, 證明在法庭上提交的證據與調查期間處理的證據`相同`
+   * 即, 證明證據在他們保管期間發生了什麼, 以及證據是如何存儲和保護的
+</p>
+</details>  
 
 ## Chain of Custody form
 
 * A chain of custody form is required to record the transfer of evidence, `who, when, where, and why`
+<details>
+<summary>Translate</summary>
+<p>
+
+* 需要一份監管鍊錶格來記錄證據的轉移, `誰、何時、何地以及為什麼`
+</p>
+</details>  
