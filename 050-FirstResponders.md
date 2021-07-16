@@ -18,32 +18,31 @@
 ## Collection and preservation of the evidence 證據的收集和保存
 
 * Field kit for collecting evidence 現場取證工具包:
-  * Camera 相機
-  * Screwdriver with assorted small bits 帶各種小頭的螺絲刀
-  * Regular and needle-nosed pilers 普通和尖嘴鉗
-  * Wire cutters 剪線鉗
-  * Tamper-resistant tape 防篡改膠帶
-  * Flashlight 手電筒
-  * Pen with indelible ink 用不可磨滅的墨水筆
-  * Hard drive storage cases 硬盤存儲盒
-  * Evidence tags 證據標籤
-  * Gloves 手套
-  * Bags 包
-  * Boxes 盒子
-  * Labels 標籤
-  * Rubber bands 橡皮筋
-  * Notebook / pen 筆記本/筆
-
+  + Camera 相機
+  + Screwdriver with assorted small bits 帶各種小頭的螺絲刀
+  + Regular and needle-nosed pilers 普通和尖嘴鉗
+  + Wire cutters 剪線鉗
+  + Tamper-resistant tape 防篡改膠帶
+  + Flashlight 手電筒
+  + Pen with indelible ink 用不可磨滅的墨水筆
+  + Hard drive storage cases 硬盤存儲盒
+  + Evidence tags 證據標籤
+  + Gloves 手套
+  + Bags 包
+  + Boxes 盒子
+  + Labels 標籤
+  + Rubber bands 橡皮筋
+  + Notebook / pen 筆記本/筆
 # Identifying evidence 識別證據
 
 ## Photographs taking 拍照
 
 * Photographically document the entire crime scene showing the location of every digital evidence
 * Examples:
-  * Computer’s active screen
-  * Passwords
-  * Books
-  * Back of computers
+  + Computer’s active screen
+  + Passwords
+  + Books
+  + Back of computers
 <details>
 <summary>Translate</summary>
 <p>
@@ -61,8 +60,8 @@
 
 * Creates a `permanent historical record` of the scene
 * Should record:
-  * `Who` — Took photos, secured the digital crime scene and what methods they used, marked the computers, prepared the sketch, seized the computers, and took exit photos
-  * `Time` — The time when entered the scene, took control and left
+  + `Who` — Took photos, secured the digital crime scene and what methods they used, marked the computers, prepared the sketch, seized the computers, and took exit photos
+  + `Time` — The time when entered the scene, took control and left
 <details>
 <summary>Translate</summary>
 <p>
@@ -132,7 +131,7 @@
 ## If the computer is off...
 
 * Do not turn it on!
-  * Turn on the computer and take a quick peek at the files can change the data
+  + Turn on the computer and take a quick peek at the files can change the data
 * If the computer is off, leave it off
 <details>
 <summary>Translate</summary>
@@ -162,12 +161,12 @@
 ## Hard shut down 硬關機
 
 * By pulling the power cord from the electrical device and/or removing the battery
-  * Pros:
+  + Pros:
     - Preserve some system files
     - Prevent destructive program activation on shutdown
     - Prevent changes to time stamp
     - Prevent changes to file attributes
-  * Cons:
+  + Cons:
     - Lose unsaved open files
     - Corrupt operating system and open documents
 <details>
@@ -176,24 +175,27 @@
 
 * 從電氣設備上拔下電源線和/或取出電池
    * 優點：
+
      - 保留一些系統文件
      - 防止在關機時激活破壞性程序
      - 防止更改時間戳
      - 防止更改文件屬性
+
    * 缺點：
+
      - 丟失未保存的打開文件
      - 損壞的操作系統和打開的文件
+
 </p>
 </details>  
-
 
 ## Graceful shutdown 正常關機
 
 * Close the system in the recommended manner
-  * Pros:
+  + Pros:
     - Identify and close open files
     - Ensure a more successful boot of the computer
-  * Cons:
+  + Cons:
     - Lose some system files
     - Activate destructive programs at shutdown
 <details>
@@ -202,11 +204,15 @@
 
 * 按照推薦的方式關閉系統
    * 優點：
+
      - 識別並關閉打開的文件
      - 確保更成功地啟動計算機
+
    * 缺點：
+
      - 丟失一些系統文件
      - 在關機時激活破壞性程序
+
 </p>
 </details>  
 
@@ -227,15 +233,15 @@
 
 * Collecting evidence should proceed from the most volatile to the less volatile
 * Example of order of volatility of a typical computer system:
-  * Registers, cache
-  * Routing table, process table, kernel statistics
-  * Memory
-  * Temporary file systems / Swap space
-  * Disk
-  * Remote logged data
-  * Physical configuration and network topology
-  * Archival media (e.g., CD-ROMs, floppies, etc)
-  * Printout
+  + Registers, cache
+  + Routing table, process table, kernel statistics
+  + Memory
+  + Temporary file systems / Swap space
+  + Disk
+  + Remote logged data
+  + Physical configuration and network topology
+  + Archival media (e.g., CD-ROMs, floppies, etc)
+  + Printout
 <details>
 <summary>Translate</summary>
 <p>
@@ -272,9 +278,9 @@
 ## Evidence bag 證據袋
 
 * Label 標籤:
-  * Evidence 證據 #
-  * Case 案件 #
-  * Date / Time 時間
-  * Location 地點
-  * Collected by 收集者
-  * Description 描述
+  + Evidence 證據 #
+  + Case 案件 #
+  + Date / Time 時間
+  + Location 地點
+  + Collected by 收集者
+  + Description 描述

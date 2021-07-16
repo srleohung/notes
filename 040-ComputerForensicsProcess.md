@@ -30,7 +30,7 @@
 * ISO/IEC 17025:2005 Accreditation of the digital forensics discipline
 * American Society of Crime Laboratory Directors (ASCLD/LAB) accreditation
 * Secure handling and storage of original data
-  * In lockable room and shelves
+  + In lockable room and shelves
 * Chain of custody
 <details>
 <summary>Translate</summary>
@@ -53,4 +53,3 @@
 * Intrusion alarm system 入侵報警系統
 * Security guards 保安人員
 * Closed-circuit cameras 閉路攝像機
-

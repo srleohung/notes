@@ -21,6 +21,7 @@ This allows storing the original media away, safe from harm while the investigat
 </details>  
 
 ## 2. Assume that you received an external portable hard drive from the evidence collection team of your company, and you are assigned to create a copy of the hard drive.
+
 ### (a) Name a software that can be used to image the data in the hard drive.
 
 <details>

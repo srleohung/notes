@@ -49,6 +49,7 @@ Temperature control, humidity control, static electricity reduction, electromagn
 </details>  
 
 ## 3. One of the forensics process is collection, in which the computer forensic specialist are required to seize the evidence from the crime scene.
+
 ### (a) Briefly discuss the information required to be shown on the evidence bag. 
 
 <details>

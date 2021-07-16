@@ -1,6 +1,7 @@
 # 050E1-FirstResponders
 
 ## First Responder (20 marks)
+
 Consider the following scenario, and answer all the questions. In an investigation of illegal access of confidential information, a portable hard disk and a USB flash drive were found in the crime scene. Kent is assigned as the first responder to handle this case.
 <details>
 <summary>Translate</summary>

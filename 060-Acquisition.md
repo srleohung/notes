@@ -16,9 +16,9 @@
 ## Types of acquisition 採集類型
 
 * Live data acquisition 實時數據採集
-  * Acquisition of volatile data (live forensics) 獲取易失性數據（實時取證）
+  + Acquisition of volatile data (live forensics) 獲取易失性數據（實時取證）
 * Static data acquisition 靜態數據採集
-  * Acquisition of non-volatile data 獲取非易失性數據
+  + Acquisition of non-volatile data 獲取非易失性數據
 
 ## Live forensics 現場取證
 
@@ -49,9 +49,9 @@
 ## Simple backup / copy...
 
 * Only copied the active data
-  * i.e., All the files you can see
-  * Not include slack, residue, deleted files
-  * May not capture the timestamp of the data
+  + i.e., All the files you can see
+  + Not include slack, residue, deleted files
+  + May not capture the timestamp of the data
 <details>
 <summary>Translate</summary>
 <p>
@@ -79,13 +79,14 @@
 </details> 
 
 ## Preparation of the media 媒體的準備
+
 * A brand new media / clean media
 * Media sanitisation
-  * Clear
+  + Clear
     - Logical techniques using standard read-write commands
-  * Purge
+  + Purge
     - Physical / logical techniques to make target data recovery infeasible by state-of- the-art laboratory techniques
-  * Destroy
+  + Destroy
     - Use of state-of-the-art laboratory techniques but result in inability to use the media for data storage (e.g., cross-cut shredding)
 <details>
 <summary>Translate</summary>
@@ -94,11 +95,17 @@
 * 全新的媒體/乾淨的媒體
 * 媒體消毒
    * 清除
+
      - 使用標準讀寫命令的邏輯技術
+
    * 清除
+
      - 通過最先進的實驗室技術使目標數據恢復不可行的物理/邏輯技術
+
    * 破壞
+
      - 使用最先進的實驗室技術, 但導致無法使用介質進行數據存儲（例如, 橫切切碎）
+
 </p>
 </details> 
 
@@ -107,8 +114,8 @@
 * Write protection should be initiated to preserve and protect the original evidence
 * A `write blocker` is any tool that permits `read-only` access to data storage devices without compromising the `integrity` of the data
 * Two types of write blockers:
-  * Hardware write blockers
-  * Software write blockers
+  + Hardware write blockers
+  + Software write blockers
 <details>
 <summary>Translate</summary>
 <p>
@@ -122,10 +129,11 @@
 </details> 
 
 ## Disk imaging 磁盤映像
+
 * Disk imaging can be done using software
-  * Forensics application suite
+  + Forensics application suite
     - Examples: EnCase® Forensic, AccessData® FTK®
-  * Forensics imaging utility
+  + Forensics imaging utility
     - Examples: EnCase® Forensic Imager, AccessData® FTK® Imager, dd
 <details>
 <summary>Translate</summary>
@@ -133,9 +141,13 @@
 
 * 磁盤映像可以使用軟件完成
    * 取證應用套件
+
      - 示例：EnCase® Forensic, AccessData® FTK®
+
    * 取證成像實用程序
+
      - 示例：EnCase® Forensic Imager, AccessData® FTK® Imager, dd
+
 </p>
 </details> 
 
@@ -143,7 +155,7 @@
 
 * A data preview and imaging tool that allows quickly assess of digital evidence
 * Allows creating forensic sound images of different media
-  * Makes a bit-by-bit duplicate of the media
+  + Makes a bit-by-bit duplicate of the media
 * The forensic image is identical in every way to the original, including file slack and unallocated space or drive free space
 <details>
 <summary>Translate</summary>
@@ -175,7 +187,7 @@
 
 * Hashing is a mathematical process (via an algorithm) that produces a unique value (hash value) that is essentially the digital "fringerprint" or "DNA" of a particular file, piece of media, etc
 * This digital fingerprint can be used to compare the original evidence to the forensic image
-  * These two values should match exactly
+  + These two values should match exactly
 <details>
 <summary>Translate</summary>
 <p>
@@ -189,24 +201,25 @@
 ## Types of hashing algorithm 哈希算法的類型
 
 * Common hash functions 常用哈希函數: 
-  * Message Digest 5 (MD5)
-  * Secure Hash Algorithm (SHA-1) and SHA-2
+  + Message Digest 5 (MD5)
+  + Secure Hash Algorithm (SHA-1) and SHA-2
 
 ## Use of hashing 散列的使用
 
 * Hash values can be used throughout the digital forensic process
-  * Used after the cloning process to verify that the clone is indeed an `exact duplicate`
-  * Used as `an integrity check` at any point
-  * Used to `identify` specific files
+  + Used after the cloning process to verify that the clone is indeed an `exact duplicate`
+  + Used as `an integrity check` at any point
+  + Used to `identify` specific files
 * Recorded throughout the chain of custody
 <details>
 <summary>Translate</summary>
 <p>
 
 * 哈希值可用於整個數字取證過程
-   * 在克隆過程之後用於驗證克隆確實是`完全重複`的
-   * 在任何時候用作`完整性檢查`
-   * 用於`識別`特定文件
+   * 在克隆過程之後用於驗證克隆確實是 `完全重複` 的
+   * 在任何時候用作 `完整性檢查`
+
+   * 用於 `識別` 特定文件
 * 在整個監管鏈中記錄
 </p>
 </details> 
