@@ -191,11 +191,11 @@ Carefully review the current set of use-cases
 
 ## Example Use-Case
 
-![](04.png)
+![](04.png?s=200)
 
-![](05.png)
+![](05.png?s=200)
 
-![](06.png)
+![](06.png?s=200)
 
 ---
 
