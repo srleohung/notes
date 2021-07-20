@@ -50,7 +50,7 @@
 
 * One entrance 一個入口
 * All windows should be closed 所有窗戶都應關閉
-* Log register of visitors (name, date and time, purpose, address) 訪客記錄（姓名、日期和時間、目的、地址）
+* Log register of visitors (name, date and time, purpose, address) 訪客記錄(姓名、日期和時間、目的、地址)
 * Electronic sign-in log 電子簽到日誌
 * Intrusion alarm system 入侵報警系統
 * Security guards 保安人員

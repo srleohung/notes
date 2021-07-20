@@ -85,7 +85,7 @@ When the portable hard drive is imaged, a drive hash and an image hash are gener
 <details>
 <summary>Translate</summary>
 <p>
-有必要產生原始媒體, 它被用來作為基準來證明證據的完整性的散列報告。算法, 例如安全散列算法（SHA-1）和SHA-2, 或消息摘要5（MD5）可以用作散列函數。
+有必要產生原始媒體, 它被用來作為基準來證明證據的完整性的散列報告。算法, 例如安全散列算法(SHA-1)和SHA-2, 或消息摘要5(MD5)可以用作散列函數。
 
 當便攜式硬盤驅動器進行成像時, 針對驗證生成的驅動散列和圖像散列。驅動散列應匹配原始媒體的哈希報告, 證明原來的媒體是重複的過程中保持不變。
 </p>

@@ -31,6 +31,6 @@
 
 * The law enforcement agencies in Hong Kong includes 香港的執法機構包括:
   + `Hong Kong Police Force` 香港警務處
-  + `Independent Commission Against Corruption (ICAC)` 獨立反腐敗委員會
+  + `Independent Commission Against Corruption (ICAC)` 廉政公署
   + `Hong Kong Customs and Excise Department (C&ED)` 香港海關
   + `Department of Justice (DoJ)` 司法部
