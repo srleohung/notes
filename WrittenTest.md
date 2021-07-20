@@ -2,11 +2,12 @@
 
 ## How Do Systems Get Built?
 
-Systems Development Life Cycle (S D L C)
-* Planning
-* Analysis
-* Design
-* Implementation
+ `Systems Development Life Cycle (S D L C)`
+
+* `Planning`
+* `Analysis`
+* `Design`
+* `Implementation`
 
 ![](01.jpeg)
 
@@ -15,11 +16,11 @@ Systems Development Life Cycle (S D L C)
 ## Planning Phase
 
 Project Initiation
-* Prepare system request
-* Perform preliminary feasibility analysis
+* `Prepare system request`
+* `Perform preliminary feasibility analysis`
 
 Set Up the Project
-* Project Plan, including work plan & staffing plan
+* `Project Plan, including work plan & staffing plan`
 
 ---
 
@@ -41,25 +42,25 @@ Prepare and Present System Proposal
 ## Design Phase
 
 Determine Design Strategy
-* Build / Buy / Outsource
+* `Build / Buy / Outsource`
 
 Design system components
-* Architecture, interface, database, programs
-* Assemble design elements into System Specification
+* `Architecture, interface, database, programs`
+* `Assemble design elements into System Specification`
 
 Present to steering committee
-* Go /No Go decision before entering final phase
+* `Go /No Go decision before entering final phase`
 
 ---
 
 ## Implementation Phase
 
 System Construction
-* Programming and testing
+* `Programming and testing`
 
 System Installation
-* Training
-* Conversion to new system
+* `Training`
+* `Conversion to new system`
 
 On-going system support
 
@@ -81,9 +82,9 @@ Lists project’s key elements
 ## Feasibility Analysis
 
 Detailed business case for the project
-* Technical feasibility
-* Economic feasibility
-* Organizational feasibility
+* `Technical feasibility`
+* `Economic feasibility`
+* `Organizational feasibility`
 
 Compiled into a feasibility study
 
