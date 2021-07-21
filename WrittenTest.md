@@ -9,7 +9,7 @@
 * `Design`
 * `Implementation`
 
-![](01.jpeg)
+![](01.png)
 
 ---
 
@@ -203,6 +203,7 @@ Carefully review the current set of use-cases
 ## D F D Elements
 
 ![](07.png)
+
 * Process
   + An activity or function performed for a specific business reason
   + Can be manual or computerized
@@ -222,6 +223,7 @@ Carefully review the current set of use-cases
     - Use stored data (create, read, update or delete a record)
 
 ![](08.png)
+
 * Data flow
   + A single piece of data or a logical collection of data
   + Data Flow names describe the content of the data flow but not how it is implemented
@@ -238,6 +240,7 @@ Carefully review the current set of use-cases
     - The control flow is depicted as a dashed-line with arrow.
 
 ![](09.png)
+
 * Data Store
   + Most information systems capture data for later use.
   + A data store is a collection of data that is stored in some way
@@ -253,6 +256,7 @@ Carefully review the current set of use-cases
   + Data flows entering the data store are updates or new data added
 
 ![](10.png)
+
 * External entity
   + A person, organization, or system that is external to the system
   + Has interactions with the system (adds data to system or receives data from system)
@@ -274,10 +278,13 @@ Carefully review the current set of use-cases
 ## D F D Hierarchy
 
 * Context Diagram decomposes into Level 0 diagram
+
 ![](11.png)
+
 * Processes on Level 0 diagram each decompose into separate Level 1 diagrams
 * Processes on Level 1 diagrams may or may not be decomposed into separate Level 2 diagrams.
 * Processes are decomposed until each process is a single-purpose, primitive process.
+
 ![](12.png)
 
 ---
